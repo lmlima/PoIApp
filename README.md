@@ -6,7 +6,7 @@ Aplicação para marcar pontos de interese em uma imagem
 - pip
 - [Opcional] conda
 
-##Instalação
+## Instalação
 Para a instalação é recomendado que se tenha um ambiente virtual (por exemplo conda) já configurado e ativado. 
 
 Instale as bibliotecas necessárias:
