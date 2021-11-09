@@ -1,7 +1,7 @@
 # PoI App
 Aplicação para marcar pontos de interese em uma imagem
 
-## Requisitos
+## Pré-requisitos
 - Python 3
 - pip
 - [Opcional] conda
