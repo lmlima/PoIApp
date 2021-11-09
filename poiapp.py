@@ -15,7 +15,6 @@ if __name__ == "__main__":
                         help='Path to save marks information')
     args = parser.parse_args()
     # Image path
-    # img_path = "/dataset/pad-ufes-20/images/unzip/PAT_8_15_820.png"
     img_path = args.img_path
     output_path = args.output_path
 
