@@ -28,9 +28,9 @@ Para **realizar uma marcação** clique com o botão esquerdo do mouse no local 
 ### Menu de propriedades
 
 Para exibir o menu de propriedades, pressione `CTRL+P`. Nesse menu há as seguintes opções de configuração:
-- Salvar em arquivo as marcações exibidas;
-- Apagar todas as marcações (apenas as marcações mostradas, não altera os arquivos salvos);
-- Esconder temporariamente as marcações feitas.
+- **Salvar** em arquivo as marcações exibidas;
+- **Apagar** todas as marcações (apenas as marcações mostradas, não altera os arquivos salvos);
+- **Esconder** temporariamente as marcações feitas.
 
 ### Como fechar
 Para sair da aplicação, basta clicar no `X` da janela da aplicação ou pressionar a tecla `ESQ`.
